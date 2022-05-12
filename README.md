@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nauman Shafique
-- 🔭 I’m currently working as Software Engineer at ShopDev
+- 🔭 I’m currently working as Sr. Software Engineer at ShopDev
 - 👀 I’m interested in Mobile App Developemnt
 - 🌱 I’m currently learning Flutter & React-Native
 <!--- 💞️ I’m looking to collaborate on ...-->
